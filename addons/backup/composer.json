@@ -1,0 +1,17 @@
+{
+    "name": "clientxcms/backup",
+    "description": "This is a new extension.",
+    "type": "clientxcms-addon",
+    "require": {
+        "php": ">=8.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "platform-check": false
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Addons\\Backup\\": "src/"
+        }
+    }
+}

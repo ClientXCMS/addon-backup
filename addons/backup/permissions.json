@@ -1,0 +1,7 @@
+[
+    {
+        "name": "admin.manage_backups",
+        "label": "backup::lang.permissions.manage_backups",
+        "group": "permissions.technical"
+    }
+]

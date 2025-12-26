@@ -1,0 +1,13 @@
+{
+    "name": "Backup",
+    "description": "This is a new extension.",
+    "uuid": "backup",
+    "version": "1.0",
+    "author": {
+        "name": "MartinDev",
+        "email": "contact@clientxcms.com"
+    },
+    "providers": [
+        "App\\Addons\\Backup\\BackupServiceProvider"
+    ]
+}
